@@ -8,7 +8,7 @@ This project consists of a **Flutter** frontend and a **Flask** backend for sent
 
 - **Backend/**: Flask backend for handling API requests and making predictions.
 - **Frontend/**: Flutter mobile application that interacts with the backend.
-- **Documentation/**: Includes a report (`.docx`) detailing the process and a video demo of the app.
+- **Documentation/**: Includes a report (`.pdf` & `.docx`) detailing the process and a video demo of the app.
 - **ModelDevelopment/**: Jupyter notebooks used for creating and training the machine learning models.
 
 ---
